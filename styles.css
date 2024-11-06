@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: #120323;
+    color: #97bf04;
+    text-align: center;
+    padding: 5%;
+}
+
+animal{
+    max-width: 900px;
+    max-height: 600px;
+}
