@@ -28,10 +28,13 @@ h1{
 
 button{
     background-color: #d9043d;
+    padding: 10px;
+    border-radius: 10px;
     
 }
 
 .buttons{
     text-align: center;
     padding: 10px;
+  
 }
